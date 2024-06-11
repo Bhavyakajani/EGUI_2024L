@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|c:\\users\\tonyj\\source\\repos\\car-workshop\\model\\ticketedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|solutionrelative:model\\ticketedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|c:\\users\\tonyj\\source\\repos\\car-workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|c:\\users\\tonyj\\source\\repos\\car-workshop\\model\\employeeedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|solutionrelative:model\\employeeedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|c:\\users\\tonyj\\source\\repos\\car-workshop\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|solutionrelative:model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|c:\\users\\tonyj\\source\\repos\\car-workshop\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|solutionrelative:controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|c:\\users\\tonyj\\source\\repos\\car-workshop\\controllers\\ticketeditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B893F3B-19EA-491A-A9C7-CF5013B241FF}|car-workshop.csproj|solutionrelative:controllers\\ticketeditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:57:39.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketEdit.cs",
+              "DocumentMoniker": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Model\\TicketEdit.cs",
+              "RelativeDocumentMoniker": "Model\\TicketEdit.cs",
+              "ToolTip": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Model\\TicketEdit.cs",
+              "RelativeToolTip": "Model\\TicketEdit.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA/wCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:39:52.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeEdit.cs",
+              "DocumentMoniker": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Model\\EmployeeEdit.cs",
+              "RelativeDocumentMoniker": "Model\\EmployeeEdit.cs",
+              "ToolTip": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Model\\EmployeeEdit.cs",
+              "RelativeToolTip": "Model\\EmployeeEdit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:39:43.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Model\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "Model\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:39:30.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Controllers\\AppRolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppRolesController.cs",
+              "ToolTip": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Controllers\\AppRolesController.cs",
+              "RelativeToolTip": "Controllers\\AppRolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:00:30.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAUwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-10T15:33:58.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketEditController.cs",
+              "DocumentMoniker": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Controllers\\TicketEditController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketEditController.cs",
+              "ToolTip": "C:\\Users\\tonyj\\source\\repos\\car-workshop\\Controllers\\TicketEditController.cs",
+              "RelativeToolTip": "Controllers\\TicketEditController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAjwKgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:03:50.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
