@@ -160,8 +160,10 @@ namespace car_workshop.Controllers
         //[Authorize(Roles = "Admin")]
         //POST
 
+
+
         [HttpDelete("Delete/{id}"), ActionName("Delete")]
-        public IActionResult DeletePost(int? id)
+        public async Task<IActionResult> DeletePost(int? id)
         {
             var obj = context.Tickets.Find(id);
 
@@ -170,7 +172,7 @@ namespace car_workshop.Controllers
                 return NotFound();
             }
             context.Tickets.Remove(obj);
-            context.SaveChanges();
+            await context.SaveChangesAsync();
             //TempData["Success"] = "Ticket Removed Successfully";
             return RedirectToAction("Index");
 
